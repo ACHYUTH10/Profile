@@ -10,12 +10,53 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# SAP Projects
+## Project 1:
+**Client**: Dow Corning, **Industry**: Chemical
+**Period**: November 2010 – December 2010 | **Role**: SAP FICO | **System**: SAP ECC 6.0  
+**Responsibilities**: Automation Testing | **Module Scope**: General Ledger Accounting, AP, AR, AA, Product Costing, COPA, CCA, IO, PCA
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Project 2:
+**Client**: Sara Lee, **Project Location**:India | **Industry**: FMCG
+**Period**: January 2011 – August 2011 |** Role**: SAP FICO Consultant | **System**: SAP ECC 6.0  
+**Responsibilities**: COPA Roll-out | **Module Scope**: COPA
 
-## Header 2
+## Project 3:
+**Client**: Dhoot Transmissions, **Project Location**: India (on-site) | **Industry**: Automotive
+**Period**: August 2011 – May 2012 | **Role**: SAP FICO | **System**: SAP ECC 6.0  
+**Responsibilities**: Full lifecycle implementation | **Module Scope**: General Ledger Accounting, AP, AR, AA, Product Costing, COPA, CCA, IO, PCA, Credit Management
 
+## Project 4:
+**Client**: NUZIVEEDU Seeds, **Project Location**:India | **Industry**: Corporate Farming
+**Period**: June 2012 – August 2012 | **Role**: SAP FICO Consultant | System: SAP ECC 6.0  
+**Responsibilities**: COPA Roll-out | Module Scope: COPA
+
+## Project 5:
+**Client**: NUZIVEEDU Seeds, **Project Location**:India | **Industry**: Corporate Farming
+**Period**: September 2012 – May 2013 | **Role**: SAP FICO Consultant | **System**: SAP ECC 6.0  
+**Responsibilities**: Full lifecycle implementation | **Module Scope**: General Ledger Accounting, AP, AR, AA, Product Costing, COPA, CCA, IO, PCA, Credit Management
+
+## Project 6:
+**Client**:Estee Lauder, **Project Location**: India | **Industry**: Cosmetics
+**Period**: July 2013 – January 2014   
+**Role**: SAP FICO Consultant
+**System**: SAP ECC 6.0
+**Key Result Areas:**
+--Supported SAP FICO modules, including Product Costing, Actual costing, COPA, CCA, IO, PCA, PS and Investment Management
+--Configured standard costing, MTS scenario, actual costing and Material ledger functionalities
+--Gathered requirements, defined approach and documented solutions
+--Attended calls and online meetings with the onsite coordinator to understand the system
+--Resolved tickets from the customers based on severity and SLA
+--Assisted functional team to resolve issues and ensure smooth flow of support
+--Modified the configuration according to client requirements
+--Participated in occasional conference with client regarding status of issues
+--Used supporting tools like Remedy and HPQC
+
+## Project 7:
+## Project 8:
+## Project 9:
+## Project 10:
+## Project 11:
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
