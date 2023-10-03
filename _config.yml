@@ -1,10 +1,17 @@
 title: <p align="center"> Achyuth Kakarla </p>
 logo: /assets/img/Achyuth.png
+
+description:
   <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kartech-soft-2a5334250/">LinkedIn</a> |
+    
   <br>   
-  I'm working on SAP , My future developments will be on Data Science, 
-  Big Data, Spark, Machine learning & NLP related problems.
-  Working in startup company.
-  <br>
+  I'm working on SAP , developments in process Data Science, Big Data, Spark, Machine 
+  learning & NLP related problems.
+   <br>
   </p>
+
+
+
 theme: jekyll-theme-minimal
